@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotrificationApp", "NotrificationApp\NotrificationApp.csproj", "{BA82F3B8-AA5A-479F-9D14-5FC843CBEFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA82F3B8-AA5A-479F-9D14-5FC843CBEFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA82F3B8-AA5A-479F-9D14-5FC843CBEFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA82F3B8-AA5A-479F-9D14-5FC843CBEFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA82F3B8-AA5A-479F-9D14-5FC843CBEFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E98B38-01B7-4EE4-873E-6799E5CBDDCD}
+	EndGlobalSection
+EndGlobal

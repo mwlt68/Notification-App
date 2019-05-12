@@ -1,0 +1,13 @@
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\bin\Debug\NotrificationApp.exe.config
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\bin\Debug\NotrificationApp.exe
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\bin\Debug\NotrificationApp.pdb
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.csprojAssemblyReference.cache
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.Form1.resources
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.Properties.Resources.resources
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.csproj.GenerateResource.cache
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.csproj.CoreCompileInputs.cache
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.csproj.CopyComplete
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.exe
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.pdb
+C:\Users\VodviL\source\repos\NotrificationApp\NotrificationApp\obj\Debug\NotrificationApp.Alert.resources
